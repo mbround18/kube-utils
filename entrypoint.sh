@@ -4,6 +4,3 @@ echo "  - kubectl commands"
 echo "  - croc commands"
 echo "  - network debugging"
 echo "  - etc"
-
-
-wait
