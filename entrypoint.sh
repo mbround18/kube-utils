@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 echo "Sup Dawg, im Kube Utils."
 echo "I operate as a smol sidecar container that is used for:"
 echo "  - kubectl commands"
