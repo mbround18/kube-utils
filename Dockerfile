@@ -1,4 +1,4 @@
-FROM alpine:3
+FROM alpine:20210804
 
 RUN apk add bash coreutils curl bind-tools grep && \
     wget -qO- https://getcroc.schollz.com | bash && \
