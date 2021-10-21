@@ -1,0 +1,4 @@
+services:
+  utils:
+    build: .
+    image: mbround18/kube-utils:latest
