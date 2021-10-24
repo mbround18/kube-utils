@@ -7,3 +7,6 @@
 - curl
 - bind-tools (include dig,nc)
 - grep
+- aria2
+- terraform
+- rclone
