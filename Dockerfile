@@ -1,4 +1,4 @@
-FROM alpine:20230901
+FROM alpine:20240315
 
 COPY ./entrypoint.sh /entrypoint.sh
 RUN apk add --update --no-cache bash coreutils curl bind-tools grep nano aria2 terraform rclone && \
